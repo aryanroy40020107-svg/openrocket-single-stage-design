@@ -68,7 +68,7 @@ Simulation outputs generated using **OpenRocket v23.09** confirm stable static a
 
 ## 📂 Repository Structure
 
-
+```text
 .
 ├── rocketry_documentation_by_aryanroy_jgec_isl.pdf   # Complete project documentation & analysis report
 ├── rocket_design.ork                             # OpenRocket CAD/Simulation design file
